@@ -1,5 +1,8 @@
 Ce projet vise à implémenter un réseau de neurones capable d’apprendre à jouer au jeu Snake. L’objectif ultime étant de créer un agent intelligent qui pourrait rivaliser avec succès contre un adversaire humain, en l’occurrence l’un des tous meilleurs joueurs que la Terre ai porté : MALO GUICHARD
 
+Deux implementations ont été testé : - Apprentissage par renforcement (Deep Q Learning)
+                                     - NEAT (NeuroEvolution of Augmenting Topologies)
+
 Ce projet à été realiser en collaboration avec Alexis Valls.
 
 TODO : 
