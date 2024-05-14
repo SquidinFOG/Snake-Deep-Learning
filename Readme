@@ -1,3 +1,9 @@
-Notre projet vise à implémenter un réseau de neurones capable d’apprendre à jouer au jeu Snake. L’objectif ultime étant de créer un agent intelligent qui pourrait rivaliser avec succès contre un adversaire humain, en l’occurrence l’un des tous meilleurs joueurs que la Terre ai porté : MALO GUICHARD
+Ce projet vise à implémenter un réseau de neurones capable d’apprendre à jouer au jeu Snake. L’objectif ultime étant de créer un agent intelligent qui pourrait rivaliser avec succès contre un adversaire humain, en l’occurrence l’un des tous meilleurs joueurs que la Terre ai porté : MALO GUICHARD
 
 Ce projet à été realiser en collaboration avec Alexis Valls.
+
+TODO : 
+Meilleurs graphs de loss
+code cleaning
+Tester d'autres éspaces d'états ? 
+implementation de MLFLOW, Optuna ?
